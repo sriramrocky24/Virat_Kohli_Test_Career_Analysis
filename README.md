@@ -1,5 +1,4 @@
-# 🏏 Virat Kohli Test Tribute
-
+# Virat-Kohli-Test-Career-Analysis
 A fan-made cricket analytics project analyzing Virat Kohli’s legendary Test career using SQL, Python, and Power BI.
 
 # 📊 Project Overview
